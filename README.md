@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/KVr0JbrdBp9KX644Bk" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/FindSatoshiLab-fsl-stepn-go-KVr0JbrdBp9KX644Bk">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/KVr0JbrdBp9KX644Bk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/FindSatoshiLab-fsl-stepn-go-KVr0JbrdBp9KX644Bk">via GIPHY</a></p>
 <h1 align="center">Hi, I'm Abed El Aziz BOUEBSA 👋</h1>
 <h3 align="center">Computer Engineering Student Seeking Final Year Internship (PFE)</h3>
 
