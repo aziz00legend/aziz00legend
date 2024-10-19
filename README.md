@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi, I'm Abed El Aziz BOUEBSA 👋</h1>
-<h3 align="center">Computer Engineering Student Seeking Final Year Internship (PFE)</h3>
-
+<h3 align="center">Final Year Computer Engineering Student | Passionate about All Aspects of IT</h3>
 
 <p align="center">
   <a target="_blank" align="center">
@@ -25,9 +24,10 @@
 ## 👨‍💻 About Me
 - 🎓 **Education:** Computer Engineering Student at National Engineering School of Carthage (ENICarthage)
 - 📍 **Location:** Bizerte, Tunisia
-- 💼 **Seeking:** Final Year Internship (PFE)
-- 🖥️ **Interested In:** Data Science, Full-Stack Development, AI, and Advanced Algorithms
+- 🖥️ **Interested In:** Data Science, Full-Stack Development, AI, and problem-solving 
 - 🌱 **Currently Learning:** Generative AI and Advanced DevOps tools
+- ⚡ Fun fact: I love problem-solving and exploring different mythologies through role-playing games!
+
 
 ---
 
