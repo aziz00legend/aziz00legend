@@ -18,25 +18,6 @@
 
 ---
 
-## 🚀 Professional Experience
-
-### **Leave Horizon — Employee Leave Management System**
-Internship at Tessi | **July 2023 - August 2023** | Bizerte, Tunisia
-- Developed a Full-Stack System for Employee Leave Management to automate the leave request process.
-- Enabled Excel export for leave and salary data, with a dynamic dashboard for reporting and analysis.
-- Implemented JWT-based authentication and role-based access control.
-
-### **Stock Reception Management System**
-Data Science Internship at Eleonetech | **June 2024 – July 2024** | Ariana, Tunisia
-- Designed and implemented a PostgreSQL database to track stock levels in real-time.
-- Developed Python scripts for CRUD operations and used Matplotlib for visualizing stock data.
-- Built an AI model using Scikit-Learn to predict future stock operations with a 92% accuracy rate.
-
-### **Forum Force — Career Fair Management System**
-- Developed a web application for managing Career Fairs with role-based access and data visualizations.
-- Simplified event management for organizing committees and companies with an easy-to-use platform.
-
----
 
 ## 🛠️ Languages and Technologies
 
@@ -48,6 +29,8 @@ Data Science Internship at Eleonetech | **June 2024 – July 2024** | Ariana, Tu
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/javascript-logo.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,css,html,angular,java,mysql,c,cpp,nodejs,bootstrap,git,github,docker,postman,linux,vscode,eclipse,tailwind,cs,idea"/>
+  
 </p>
 
 **Frameworks:**
