@@ -2,6 +2,10 @@
 <h3 align="center">Computer Engineering Student Seeking Final Year Internship (PFE)</h3>
 
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/aziz00legend?s=400&v=4" alt="Abed El Aziz BOUEBSA Avatar" width="150" height="150"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=aziz00legend&label=Profile%20views&color=0e75b6&style=flat" alt="aziz00legend" />
   <a href="https://github.com/aziz00legend?tab=followers"><img src="https://img.shields.io/github/followers/aziz00legend?label=Followers&style=social" alt="GitHub Followers" /></a>
   <a href="mailto:abdelaziz.bouabsa@enicar.ucar.tn"><img src="https://img.shields.io/badge/Email-abdelaziz.bouabsa%40enicar.ucar.tn-red" alt="Contact Email" /></a>
@@ -18,15 +22,11 @@
 
 ---
 
-
 ## 🛠️ Languages and Technologies
 
 **Languages:**
 <p align="left">
- 
   <img src="https://skillicons.dev/icons?i=py,ts,js,css,html,java,c,cpp,cs"/>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,css,html,angular,java,mysql,c,cpp,nodejs,bootstrap,git,github,docker,postman,linux,vscode,eclipse,tailwind,cs,idea"/>
-  
 </p>
 
 **Frameworks:**
@@ -34,7 +34,6 @@
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/spring-security.png" alt="Spring Security" width="40" height="40"/>
-  
 </p>
 
 **Libraries:**
@@ -57,8 +56,6 @@
 - **AI & Data Science:** NLP, Deep Learning, DevOps
 - **Software Engineering:** Advanced Algorithms, UML, Design Patterns
 - **DevOps Tools:** Docker, Linux
-
-
 
 ---
 
@@ -83,7 +80,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aziz00legend&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aziz00legend&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziz00legend&layout=compact&theme=radical" alt="Top Languages" />
-  
 </p>
 
 ---
