@@ -65,7 +65,7 @@
 
 **IDE:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,anaconda,idea"/>
+  <img src="https://skillicons.dev/icons?i=vscode,anaconda,idea,matlab"/>
 </p>
 
 **Domains and Skills:**
