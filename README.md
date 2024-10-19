@@ -8,9 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/aziz00legend?s=400&v=4" alt="Abed El Aziz BOUEBSA Avatar" width="150" height="150"/>
-</p>
 
 
 <p align="center">
@@ -37,7 +34,7 @@
 - 🎓 **Education:** Computer Engineering Student at National Engineering School of Carthage (ENICarthage)
 - 📍 **Location:** Bizerte, Tunisia
 - 🖥️ **Interested In:** Data Science, Full-Stack Development, AI, and problem-solving 
-- 🌱 **Currently Learning:** Generative AI and Advanced DevOps tools
+- 🌱 **Currently Learning:** Deep Learning and Advanced DevOps tools
 
 ---
 
