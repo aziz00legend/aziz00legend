@@ -19,6 +19,18 @@
   <a href="mailto:abdelaziz.bouabsa@enicar.ucar.tn"><img src="https://img.shields.io/badge/Email-abdelaziz.bouabsa%40enicar.ucar.tn-red" alt="Contact Email" /></a>
 </p>
 
+
+## 👨‍💻 My Competitive Programming Accounts
+
+<p align="center">
+    <a href="https://codeforces.com/profile/Abed_el_Aziz_Bouebsa" target="_blank" rel="noopener">
+        <img src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f" width="50" height="50" alt="Codeforces Profile"/>
+    </a>
+    <a href="https://leetcode.com/u/user7436NJ/" target="_blank" rel="noopener">
+        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="50" height="50"/>
+    </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -26,8 +38,6 @@
 - 📍 **Location:** Bizerte, Tunisia
 - 🖥️ **Interested In:** Data Science, Full-Stack Development, AI, and problem-solving 
 - 🌱 **Currently Learning:** Generative AI and Advanced DevOps tools
-- ⚡ Fun fact: I love problem-solving and exploring different mythologies through role-playing games!
-
 
 ---
 
