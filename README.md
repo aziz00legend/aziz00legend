@@ -23,12 +23,8 @@
 
 **Languages:**
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript-logo.png" alt="JavaScript" width="40" height="40"/>
+ 
+  <img src="https://skillicons.dev/icons?i=py,ts,js,css,html,java,c,cpp,cs"/>
   <img src="https://skillicons.dev/icons?i=py,ts,js,css,html,angular,java,mysql,c,cpp,nodejs,bootstrap,git,github,docker,postman,linux,vscode,eclipse,tailwind,cs,idea"/>
   
 </p>
@@ -38,6 +34,7 @@
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/spring-security.png" alt="Spring Security" width="40" height="40"/>
+  
 </p>
 
 **Libraries:**
@@ -51,22 +48,17 @@
   <img src="https://img.icons8.com/color/48/000000/prime-ng.png" alt="PrimeNG" width="40" height="40"/>
 </p>
 
+**IDE:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,anaconda,idea"/>
+</p>
+
 **Domains and Skills:**
 - **AI & Data Science:** NLP, Deep Learning, DevOps
 - **Software Engineering:** Advanced Algorithms, UML, Design Patterns
 - **DevOps Tools:** Docker, Linux
 
----
 
-## 💡 Projects
-
-### **SparkLaptop Insights — March 2024 - April 2024**
-Explored the laptop market using PCA and K-Means Clustering.
-- Technologies: PostgreSQL, Python, Matplotlib, Scikit-Learn
-
-### **Career Fair Management System — Forum Force**
-Simplified event management process for large Career Fairs.
-- Technologies: Spring Boot, Angular, MySQL, D3.js
 
 ---
 
@@ -91,6 +83,7 @@ Simplified event management process for large Career Fairs.
   <img src="https://github-readme-stats.vercel.app/api?username=aziz00legend&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aziz00legend&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziz00legend&layout=compact&theme=radical" alt="Top Languages" />
+  
 </p>
 
 ---
