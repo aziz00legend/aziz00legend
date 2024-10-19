@@ -1,6 +1,13 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/KVr0JbrdBp9KX644Bk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/FindSatoshiLab-fsl-stepn-go-KVr0JbrdBp9KX644Bk">via GIPHY</a></p>
+
 <h1 align="center">Hi, I'm Abed El Aziz BOUEBSA 👋</h1>
 <h3 align="center">Computer Engineering Student Seeking Final Year Internship (PFE)</h3>
+
+
+<p align="center">
+  <a target="_blank" align="center">
+  <img align="center" top="500" height="300" width="400" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG52eDl0aDZ2eXh5eGJlMmMzcm1vcHNhYjZmNzllbnJkODVraWo2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.gif">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/aziz00legend?s=400&v=4" alt="Abed El Aziz BOUEBSA Avatar" width="150" height="150"/>
