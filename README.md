@@ -75,7 +75,7 @@
 ---
 
 ## 🌐 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://github.com/aziz00legend" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
   <a href="mailto:abdelaziz.bouabsa@enicar.ucar.tn"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email"/></a>
