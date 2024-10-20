@@ -54,13 +54,14 @@
 
 **Libraries:**
 <p align="left">
-  <img src="https://img.icons8.com/fluency/48/000000/pandas.png" alt="pandas" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-Learn" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/d3js.png" alt="D3.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/qiskit.png" alt="qiskit" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/prime-ng.png" alt="PrimeNG" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/40/000000/pandas.png" alt="pandas" width="40" height="40"/>
+<img src="https://img.icons8.com/color/40/000000/numpy.png" alt="NumPy" width="40" height="40"/>
+<img src="https://img.icons8.com/color/40/000000/matplotlib.png" alt="Matplotlib" width="40" height="40"/>
+<img src="https://img.icons8.com/color/40/000000/scikit-learn.png" alt="Scikit-Learn" width="40" height="40"/>
+<img src="https://img.icons8.com/color/40/000000/d3js.png" alt="D3.js" width="40" height="40"/>
+<img src="https://img.icons8.com/color/40/000000/qiskit.png" alt="qiskit" width="40" height="40"/>
+<img src="https://img.icons8.com/color/40/000000/prime-ng.png" alt="PrimeNG" width="40" height="40"/>
+
 </p>
 
 **IDE:**
