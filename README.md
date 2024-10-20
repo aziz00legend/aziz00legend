@@ -49,7 +49,7 @@
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/spring-security.png" alt="Spring Security" width="40" height="40"/>
+  <img src="https://media.licdn.com/dms/image/D4D12AQFyii3dcLZ8nw/article-cover_image-shrink_600_2000/0/1672232494783?e=2147483647&v=beta&t=5wRN5rcst3pb57__WWgE3P7lVnv-UjsjFh7TkxlUMv8" alt="Spring Security" width="40" height="40"/>
 </p>
 
 **Libraries:**
