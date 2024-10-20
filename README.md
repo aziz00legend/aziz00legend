@@ -17,16 +17,7 @@
 </p>
 
 
-## 👨‍💻 My Competitive Programming Accounts
 
-<p align="center">
-    <a href="https://codeforces.com/profile/Abed_el_Aziz_Bouebsa" target="_blank" rel="noopener">
-        <img src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f" width="50" height="50" alt="Codeforces Profile"/>
-    </a>
-    <a href="https://leetcode.com/u/user7436NJ/" target="_blank" rel="noopener">
-        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="50" height="50"/>
-    </a>
-</p>
 
 ---
 
@@ -54,13 +45,24 @@
 
 **Libraries:**
 <p align="left">
-  <img src="https://img.icons8.com/fluency/40/000000/pandas.png" alt="pandas" width="40" height="40"/>
-<img src="https://img.icons8.com/color/40/000000/numpy.png" alt="NumPy" width="40" height="40"/>
-<img src="https://img.icons8.com/color/40/000000/matplotlib.png" alt="Matplotlib" width="40" height="40"/>
-<img src="https://img.icons8.com/color/40/000000/scikit-learn.png" alt="Scikit-Learn" width="40" height="40"/>
-<img src="https://img.icons8.com/color/40/000000/d3js.png" alt="D3.js" width="40" height="40"/>
-<img src="https://img.icons8.com/color/40/000000/qiskit.png" alt="qiskit" width="40" height="40"/>
-<img src="https://img.icons8.com/color/40/000000/prime-ng.png" alt="PrimeNG" width="40" height="40"/>
+ <div class="tech-cell">
+          <i class="devicon-numpy-line-wordmark"></i>
+        </div>
+        <div class="tech-cell">
+          <i class="devicon-pandas-plain"></i>
+        </div>
+        <div class="tech-cell">
+          <i class="devicon-matplotlib-plain-wordmark"></i>
+        </div>
+        <div class="tech-cell">
+          <i class="devicon-keras-plain"></i>
+        </div>
+        <div class="tech-cell">
+          <i class="devicon-scikitlearn-plain"></i>
+        </div>
+        <div class="tech-cell">
+          <i class="devicon-d3js-plain"></i>
+        </div>
 
 </p>
 
@@ -88,6 +90,17 @@
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://github.com/aziz00legend" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
   <a href="mailto:abdelaziz.bouabsa@enicar.ucar.tn"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email"/></a>
+</p>
+
+## 👨‍💻 My Competitive Programming Accounts
+
+<p align="center">
+    <a href="https://codeforces.com/profile/Abed_el_Aziz_Bouebsa" target="_blank" rel="noopener">
+        <img src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f" width="50" height="50" alt="Codeforces Profile"/>
+    </a>
+    <a href="https://leetcode.com/u/user7436NJ/" target="_blank" rel="noopener">
+        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="50" height="50"/>
+    </a>
 </p>
 
 ---
