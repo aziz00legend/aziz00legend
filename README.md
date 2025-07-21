@@ -68,8 +68,9 @@
 ---
 
 ## 🏆 Certifications
-- **Fundamentals of Deep Learning** | NVIDIA | **March 2024**
+- **Professional Oracle AI Vector Search** | Oracle | **May 2025**
 - **Professional OCI Oracle Generative AI** | Oracle | **July 2024**
+- **Fundamentals of Deep Learning** | NVIDIA | **March 2024**
 - **Version Control** | Meta | **December 2023**
 
 ---
