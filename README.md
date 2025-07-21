@@ -32,9 +32,7 @@
 ## 🛠️ Languages and Technologies
 
 **Languages:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,css,html,java,c,cpp,cs"/>
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=py,ts,js,css,html,java,c,cpp,bash"/> <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" title="PL/SQL" width="40" height="40"/> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-cypher-query-language-used-in-neo4j-graph-database-logo-shadow-tal-revivo.png" title="Cypher" width="40" height="40"/> </p>
 
 **Frameworks:**
 <p align="left">
