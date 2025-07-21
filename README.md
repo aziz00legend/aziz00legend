@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Abed El Aziz BOUEBSA 👋</h1>
-<h3 align="center">Final Year Computer Engineering Student | Passionate about All Aspects of IT</h3>
+<h3 align="center">Computer Science Engineer | Passionate about All Aspects of IT</h3>
 
 <p align="center">
   <a target="_blank" align="center">
@@ -22,7 +22,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 **Education:** Computer Engineering Student at National Engineering School of Carthage (ENICarthage)
+- 🎓 **Education:** Computer Science Engineer Student at National Engineering School of Carthage (ENICarthage)
 - 📍 **Location:** Bizerte, Tunisia
 - 🖥️ **Interested In:** Data Science, Full-Stack Development, AI, and problem-solving 
 - 🌱 **Currently Learning:** Deep Learning and Advanced DevOps tools
@@ -49,10 +49,22 @@
  <a href="https://matplotlib.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/></a>
  <a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="40" height="40"/></a>
  <a href="https://d3js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="D3.js" width="40" height="40"/></a>
-  
  <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
 </p>
+</p>
 
+
+**Libraries:**
+<p align="left">
+ <p align="left">
+ <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/></a>
+ <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+ <a href="https://matplotlib.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/></a>
+ <a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="40" height="40"/></a>
+ <a href="https://d3js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="D3.js" width="40" height="40"/></a>
+ <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
+ <img src="https://www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png" alt="primng" width="40" height="40"/>
+</p>
 </p>
 
 
