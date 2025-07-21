@@ -32,7 +32,7 @@
 ## 🛠️ Languages and Technologies
 
 **Languages:**
-<p align="left"> <img src="https://skillicons.dev/icons?i=py,ts,js,css,html,java,c,cpp,bash"/> <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" title="PL/SQL" width="40" height="40"/> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-cypher-query-language-used-in-neo4j-graph-database-logo-shadow-tal-revivo.png" title="Cypher" width="40" height="40"/> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=py,ts,js,css,html,java,c,cpp,bash"/>
 
 **Frameworks:**
 <p align="left">
@@ -49,9 +49,16 @@
  <a href="https://matplotlib.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/></a>
  <a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="40" height="40"/></a>
  <a href="https://d3js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="D3.js" width="40" height="40"/></a>
+  
+ <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
 </p>
 
 </p>
+
+
+
+**DevOps Tools:**
+<p align="left"> <img src="https://skillicons.dev/icons?i=linux,docker,git,jenkins,vim"/>
 
 **IDE:**
 <p align="left">
@@ -62,7 +69,6 @@
 - **AI & Data Science:** NLP, Deep Learning, DevOps
 - **Software Engineering:** Advanced Algorithms, UML, Design Patterns
 - **DevOps Tools:** Docker, Linux
-
 ---
 
 ## 🏆 Certifications
