@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Abed El Aziz BOUEBSA 👋</h1>
 <h3 align="center">Computer Science Engineer | Passionate about All Aspects of IT</h3>
 
@@ -31,32 +30,36 @@
 
 ## 🛠️ Languages and Technologies
 
-**Languages:**
-<p align="left"> <img src="https://skillicons.dev/icons?i=py,ts,js,css,html,java,c,cpp,bash"/>
+<p align="center"><strong>Languages</strong> <p align="center"><img src="https://skillicons.dev/icons?i=py,ts,js,css,html,java,c,cpp,bash"/></p></p>
 
-**Frameworks:**
-<p align="left">
+<p align="center">
+<strong>Frameworks</strong>
+  <p align="center">
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://media.licdn.com/dms/image/D4D12AQFyii3dcLZ8nw/article-cover_image-shrink_600_2000/0/1672232494783?e=2147483647&v=beta&t=5wRN5rcst3pb57__WWgE3P7lVnv-UjsjFh7TkxlUMv8" alt="Spring Security" width="40" height="40"/>
-</p>
-
-**Libraries:**
-<p align="left">
- <p align="left">
- <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/></a>
- <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
- <a href="https://matplotlib.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/></a>
- <a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="40" height="40"/></a>
- <a href="https://d3js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="D3.js" width="40" height="40"/></a>
- <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
-</p>
+   <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="40" height="40"/>
 </p>
 
 
-**Libraries:**
-<p align="left">
- <p align="left">
+
+<p align="center">
+  <strong>Databases</strong>
+  <p align="center">
+   <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="40" height="40"/>
+   <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmOZuTqPb6LhxyTyEUio8xxNxspa0gm-NncQ&s" alt="neo4j" width="40" height="40"/>
+
+</p>
+  
+</p>
+
+
+
+
+<p align="center">
+<strong>Libraries</strong>
+ <p align="center">
  <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/></a>
  <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
  <a href="https://matplotlib.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/></a>
@@ -64,23 +67,33 @@
  <a href="https://d3js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="D3.js" width="40" height="40"/></a>
  <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
  <img src="https://www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png" alt="primng" width="40" height="40"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="seaborn" width="40" height="40"/>
+ <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_1016x1024.png" alt="threejs" width="40" height="40"/>
 </p>
 </p>
 
 
 
-**DevOps Tools:**
-<p align="left"> <img src="https://skillicons.dev/icons?i=linux,docker,git,jenkins,vim"/>
 
-**IDE:**
-<p align="left">
+<p align="center"><strong>DevOps & Testing</strong> <p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,jenkins,vim,postman"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeR5c6Q6-G_NnUUvlzq_11G7zUfR3ZXk-fXw&s" alt="SonarQube" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" alt="JUnit" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS38l6tx-m4yFt0OeiZTq1HYgMTExE9ikvgtA&s" alt="Mockito" width="50" height="50"/>
+  
+  </p>
+</p>
+
+<p align="center">
+  <strong>IDE</strong> 
+  <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,anaconda,idea,matlab"/>
+</p>
 </p>
 
 **Domains and Skills:**
-- **AI & Data Science:** NLP, Deep Learning, DevOps
-- **Software Engineering:** Advanced Algorithms, UML, Design Patterns
-- **DevOps Tools:** Docker, Linux
+- **AI & Data Science:** NLP, Deep Learning, Computer Vision, Generative AI, Machine Learning, Data Analysis, Recommendation Systems
+- **Software Engineering:** Advanced Algorithms, UML, Design Patterns, Knowledge Graphs
 ---
 
 ## 🏆 Certifications
